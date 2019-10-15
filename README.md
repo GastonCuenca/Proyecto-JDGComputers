@@ -1,1 +1,2 @@
 # proyectoJDG
+# ProyectoJDGcomputer
