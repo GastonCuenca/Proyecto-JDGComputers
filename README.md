@@ -1,3 +1,1 @@
-# proyectoJDG
-# ProyectoJDGcomputer
-# ProyectoJDGcomputer
+
